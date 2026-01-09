@@ -1,6 +1,14 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: index
+layout: home
 ---
+
+# Assad Portfolio
+
+this is my portfolio
+
+
+
+
+[GITHUB](https://jekyllrb.com/docs/home)<br>
+[SITE WEB](https://github.com/jekyll/jekyll)<br>
+[CV](https://talk.jekyllrb.com/)
